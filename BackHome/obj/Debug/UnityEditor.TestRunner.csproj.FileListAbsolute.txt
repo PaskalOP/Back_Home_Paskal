@@ -1,0 +1,2 @@
+/Users/olga/Desktop/I am programer/Unity/Back_Home_Paskal/BackHome/obj/Debug/UnityEditor.TestRunner.csproj.AssemblyReference.cache
+/Users/olga/Desktop/I am programer/Unity/Back_Home_Paskal/BackHome/obj/Debug/UnityEditor.TestRunner.csproj.CoreCompileInputs.cache
